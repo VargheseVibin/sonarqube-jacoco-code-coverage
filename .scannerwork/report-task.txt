@@ -1,0 +1,6 @@
+projectKey=Sample-Sonar-Scan-Java
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=Sample-Sonar-Scan-Java
+ceTaskId=AXZOEmjJx4wcq-7c6zfT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXZOEmjJx4wcq-7c6zfT

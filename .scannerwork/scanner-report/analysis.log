@@ -1,0 +1,187 @@
+Environment variables:
+  - =D:=D:\OneDrive - Infosys Limited\git\sonarqube-jacoco-code-coverage
+  - ACLOCAL_PATH=C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+  - ALLUSERSPROFILE=C:\ProgramData
+  - APPDATA=C:\Users\Vibin_Varghese\AppData\Roaming
+  - COMMONPROGRAMFILES=C:\Program Files\Common Files
+  - COMPUTERNAME=TVMATP284365L
+  - COMSPEC=C:\windows\system32\cmd.exe
+  - CONFIG_SITE=C:/Program Files/Git/mingw64/etc/config.site
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DISPLAY=needs-to-be-defined
+  - DriverData=C:\Windows\System32\Drivers\DriverData
+  - ERROR_CODE=0
+  - EXEPATH=C:\Program Files\Git
+  - HOME=C:\Users\Vibin_Varghese
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\Vibin_Varghese
+  - HOSTNAME=TVMATP284365L
+  - INFOPATH=C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+  - JAVA_EXEC="D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\bin\..\jre
+  - LANG=en_US.UTF-8
+  - LOCALAPPDATA=C:\Users\Vibin_Varghese\AppData\Local
+  - LOGONSERVER=\\CHNMCTGDC02
+  - MANPATH=C:\Program Files\Git\mingw64\local\man;C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+  - MINGW_CHOST=x86_64-w64-mingw32
+  - MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+  - MINGW_PREFIX=C:/Program Files/Git/mingw64
+  - MSYSTEM=MINGW64
+  - MSYSTEM_CARCH=x86_64
+  - MSYSTEM_CHOST=x86_64-w64-mingw32
+  - MSYSTEM_PREFIX=C:/Program Files/Git/mingw64
+  - MV_HOME=D:\OneDrive - Infosys Limited\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3
+  - NUMBER_OF_PROCESSORS=8
+  - OLDPWD=D:/OneDrive - Infosys Limited/git/sonarqube-jacoco-code-coverage/src
+  - ORIGINAL_PATH=C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Vibin_Varghese\bin;C:\Program Files\AdoptOpenJDK\jdk-8.0.202.08\bin;C:\Program Files\AdoptOpenJDK\jre-8.0.202.08\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\usr\bin;C:\windows\System32\OpenSSH;C:\Program Files (x86)\Webex\Webex\Applications;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files (x86)\IBM\Trace Facility;C:\Users\Vibin_Varghese\Downloads\cmder_mini;C:\Users\Vibin_Varghese\AppData\Local\Programs\Python\Python37;C:\Users\Vibin_Varghese\AppData\Local\Programs\Python\Python37\Scripts;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Program Files (x86)\IBM\Personal Communications;C:\Program Files (x86)\IBM\Trace Facility;D:\IBM\HostOnDemand\bin;C:\Program Files\Robin;C:\Program Files\OpenSSL-Win64\bin;C:\Program Files\PuTTY;C:\Program Files\Zulu\zulu-11\bin;C:\Program Files\Zulu\zulu-11-jre\bin;C:\Program Files (x86)\Sennheiser\SenncomSDK;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Kubernetes\Minikube;C:\Program Files\Kubernetes;D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\bin;D:\OneDrive - Infosys Limited\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\Vibin_Varghese\AppData\Roaming\npm;C:\Users\Vibin_Varghese\AppData\Local\Programs\Microsoft VS Code\bin
+  - ORIGINAL_TEMP=C:/Users/Vibin_Varghese/AppData/Local/Temp
+  - ORIGINAL_TMP=C:/Users/Vibin_Varghese/AppData/Local/Temp
+  - OS=Windows_NT
+  - OneDrive=D:\OneDrive - Infosys Limited
+  - OneDriveCommercial=D:\OneDrive - Infosys Limited
+  - PATH=C:\Users\Vibin_Varghese\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Vibin_Varghese\bin;C:\Program Files\AdoptOpenJDK\jdk-8.0.202.08\bin;C:\Program Files\AdoptOpenJDK\jre-8.0.202.08\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\usr\bin;C:\windows\System32\OpenSSH;C:\Program Files (x86)\Webex\Webex\Applications;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files (x86)\IBM\Trace Facility;C:\Users\Vibin_Varghese\Downloads\cmder_mini;C:\Users\Vibin_Varghese\AppData\Local\Programs\Python\Python37;C:\Users\Vibin_Varghese\AppData\Local\Programs\Python\Python37\Scripts;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Program Files (x86)\IBM\Personal Communications;C:\Program Files (x86)\IBM\Trace Facility;D:\IBM\HostOnDemand\bin;C:\Program Files\Robin;C:\Program Files\OpenSSL-Win64\bin;C:\Program Files\PuTTY;C:\Program Files\Zulu\zulu-11\bin;C:\Program Files\Zulu\zulu-11-jre\bin;C:\Program Files (x86)\Sennheiser\SenncomSDK;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Kubernetes\Minikube;C:\Program Files\Kubernetes;D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\bin;D:\OneDrive - Infosys Limited\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\Vibin_Varghese\AppData\Roaming\npm;C:\Users\Vibin_Varghese\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PCOMM_Root=C:\Program Files (x86)\IBM\Personal Communications\
+  - PKG_CONFIG_PATH=C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig
+  - PLINK_PROTOCOL=ssh
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 17 Stepping 0, AuthenticAMD
+  - PROCESSOR_LEVEL=23
+  - PROCESSOR_REVISION=1100
+  - PROGRAMFILES=C:\Program Files
+  - PROJECT_HOME=D:\OneDrive - Infosys Limited\git\sonarqube-jacoco-code-coverage
+  - PROMPT=$P$G
+  - PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+  - PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft Azure Information Protection\Powershell
+  - PUBLIC=C:\Users\Public
+  - PWD=D:/OneDrive - Infosys Limited/git/sonarqube-jacoco-code-coverage
+  - ProgramData=C:\ProgramData
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SHELL=C:\Program Files\Git\usr\bin\bash.exe
+  - SHLVL=1
+  - SNC_LIB=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll
+  - SNC_LIB_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll
+  - SONAR_SCANNER_HOME=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\bin\..
+  - SSF_LIBRARY_PATH=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll
+  - SSF_LIBRARY_PATH_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll
+  - SSH_ASKPASS=C:/Program Files/Git/mingw64/libexec/git-core/git-gui--askpass
+  - SYSTEMDRIVE=C:
+  - SYSTEMROOT=C:\windows
+  - TEMP=C:\Users\Vibin_Varghese\AppData\Local\Temp
+  - TERM=xterm
+  - TERM_PROGRAM=mintty
+  - TERM_PROGRAM_VERSION=3.4.1
+  - TMP=C:\Users\Vibin_Varghese\AppData\Local\Temp
+  - TMPDIR=C:\Users\Vibin_Varghese\AppData\Local\Temp
+  - UATDATA=C:\windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+  - USERDNSDOMAIN=AD.INFOSYS.COM
+  - USERDOMAIN=ITLINFOSYS
+  - USERDOMAIN_ROAMINGPROFILE=ITLINFOSYS
+  - USERNAME=Vibin_Varghese
+  - USERPROFILE=C:\Users\Vibin_Varghese
+  - VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+  - WINDIR=C:\windows
+  - _=D:/OneDrive - Infosys Limited/Downloads/sonar-scanner-cli-3.3.0.1492-windows/sonar-scanner-3.3.0.1492-windows/bin/sonar-scanner.bat
+  - scriptdir=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\bin
+  - use_embedded_jre=true
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\bin\..\lib\sonar-scanner-cli-3.3.0.1492.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\lib\endorsed
+  - java.ext.dirs=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\lib\ext;C:\windows\Sun\Java\lib\ext
+  - java.home=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre
+  - java.io.tmpdir=C:\Users\Vibin_Varghese\AppData\Local\Temp\
+  - java.library.path=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Users\Vibin_Varghese\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Vibin_Varghese\bin;C:\Program Files\AdoptOpenJDK\jdk-8.0.202.08\bin;C:\Program Files\AdoptOpenJDK\jre-8.0.202.08\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\usr\bin;C:\windows\System32\OpenSSH;C:\Program Files (x86)\Webex\Webex\Applications;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files (x86)\IBM\Trace Facility;C:\Users\Vibin_Varghese\Downloads\cmder_mini;C:\Users\Vibin_Varghese\AppData\Local\Programs\Python\Python37;C:\Users\Vibin_Varghese\AppData\Local\Programs\Python\Python37\Scripts;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Program Files (x86)\IBM\Personal Communications;C:\Program Files (x86)\IBM\Trace Facility;D:\IBM\HostOnDemand\bin;C:\Program Files\Robin;C:\Program Files\OpenSSL-Win64\bin;C:\Program Files\PuTTY;C:\Program Files\Zulu\zulu-11\bin;C:\Program Files\Zulu\zulu-11-jre\bin;C:\Program Files (x86)\Sennheiser\SenncomSDK;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Kubernetes\Minikube;C:\Program Files\Kubernetes;D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\bin;D:\OneDrive - Infosys Limited\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\Vibin_Varghese\AppData\Roaming\npm;C:\Users\Vibin_Varghese\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=D:\OneDrive - Infosys Limited\git\sonarqube-jacoco-code-coverage
+  - scanner.home=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\lib\resources.jar;D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\lib\rt.jar;D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\lib\sunrsasign.jar;D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\lib\jsse.jar;D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\lib\jce.jar;D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\lib\charsets.jar;D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\lib\jfr.jar;D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\classes
+  - sun.boot.library.path=D:\OneDrive - Infosys Limited\Downloads\sonar-scanner-cli-3.3.0.1492-windows\sonar-scanner-3.3.0.1492-windows\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -Dproject.settings=sonar-scanner.properties -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - user.country=US
+  - user.dir=D:\OneDrive - Infosys Limited\git\sonarqube-jacoco-code-coverage
+  - user.home=C:\Users\Vibin_Varghese
+  - user.language=en
+  - user.name=Vibin_Varghese
+  - user.script=
+  - user.timezone=Asia/Calcutta
+  - user.variant=
+SonarQube plugins:
+  - SonarPython 1.14.0.3086 (python)
+  - SonarCSS 1.1.0.993 (cssfamily)
+  - GitHub Authentication for SonarQube 1.5.0.870 (authgithub)
+  - JaCoCo 1.0.1.143 (jacoco)
+  - SonarGo 1.1.1.2000 (go)
+  - SonarKotlin 1.5.0.315 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 5.2.1.7778 (javascript)
+  - SonarRuby 1.5.0.315 (ruby)
+  - SonarScala 1.5.0.315 (sonarscala)
+  - SonarC# 7.14.0.8411 (csharp)
+  - SonarJava 5.13.0.18197 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - SonarHTML 3.1.0.1615 (web)
+  - Git 1.8.0.1574 (scmgit)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - SAML 2.0 Authentication for SonarQube 1.1.0.181 (authsaml)
+  - SonarPHP 3.1.1.4762 (php)
+  - SonarTS 1.9.0.3766 (typescript)
+  - SonarVB 7.14.0.8411 (vbnet)
+Global server settings:
+  - sonar.core.id=BF41A1F2-AXZNKvFkx4wcq-7c6xW9
+  - sonar.core.startTime=2020-12-10T20:30:26+0530
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9000
+  - sonar.java.binaries=target/classes
+  - sonar.language=java
+  - sonar.login=******
+  - sonar.projectBaseDir=D:\OneDrive - Infosys Limited\git\sonarqube-jacoco-code-coverage
+  - sonar.projectKey=Sample-Sonar-Scan-Java
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=3.3.0.1492
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=src/main/java/
+  - sonar.verbose=true
+  - sonar.working.directory=D:\OneDrive - Infosys Limited\git\sonarqube-jacoco-code-coverage\.scannerwork
